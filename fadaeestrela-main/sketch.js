@@ -14,7 +14,7 @@ function preload(){
 	bgImg = loadImage("images/starNight.png");
     //carregar animação de fada 
     imgFada = loadAnimation("images/fairyImage1.png","images/fairyImage2.png");
-    musica = loadSound("sound/joyMusic.mp3");
+    musica = loadSound("sound/JoyMusic.mp3");
 }
 
 function setup() {
